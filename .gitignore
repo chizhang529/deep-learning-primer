@@ -1,0 +1,4 @@
+.idea/
+*.h5
+*.pyc
+.ipynb_checkpoints/
