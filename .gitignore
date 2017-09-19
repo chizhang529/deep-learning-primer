@@ -10,7 +10,8 @@
 *.tar.gz
 *.meta
 *.p
-./image-classification/checkpoint/
-./image-classification/cifar-10-batches-py/
 *.index
-*.data-0000-of-00001
+
+
+*.floydexpt
+*.floydignore
